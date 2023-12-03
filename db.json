@@ -1,4 +1,4 @@
-{
+{"Products":[{
   "Product_1": {
     "price": 19.99,
     "photo": "link_to_product_1_photo.jpg",
@@ -29,4 +29,4 @@
     "photo": "link_to_product_6_photo.jpg",
     "seller_name": "Seller F"
   }
-}
+}]}
